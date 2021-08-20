@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/ipfs-shipyard/nft.storage/compare/niftysave-v1.0.0...niftysave-v1.1.0) (2021-08-20)
+
+
+### Features
+
+* enable niftysave ([#256](https://www.github.com/ipfs-shipyard/nft.storage/issues/256)) ([b93614e](https://www.github.com/ipfs-shipyard/nft.storage/commit/b93614ece6806611addea215726ff43f5f7f98bc))
+
+
+### Bug Fixes
+
+* analyzer by switching from index to collections ([d581d9e](https://www.github.com/ipfs-shipyard/nft.storage/commit/d581d9e410769342f7cb40808b414888207d07c3))
+* niftysave pin job failures by adopting request timeouts ([#267](https://www.github.com/ipfs-shipyard/nft.storage/issues/267)) ([0bac638](https://www.github.com/ipfs-shipyard/nft.storage/commit/0bac6385ef0417a7a3453172bf3a3ed9e664f9e6))
+* unblock niftysave ([#257](https://www.github.com/ipfs-shipyard/nft.storage/issues/257)) ([7fc56bd](https://www.github.com/ipfs-shipyard/nft.storage/commit/7fc56bdfbbbbe6a59a1ff7df9a42c81aad100635))
+
 ## 1.0.0 (2021-07-13)
 
 
